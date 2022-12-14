@@ -1,1 +1,6 @@
 data/
+.venv
+VoxForge/downloads/
+VoxForge/data
+VoxForge/extracted
+VoxForge/removed
